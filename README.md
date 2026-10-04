@@ -48,7 +48,7 @@ On Windows PowerShell:
 New-Item Copyright.js
 ```
 
-Open it in your editor and paste the **full AI version of `Copyright.js`** from the previous message.
+Open it in your editor and paste the **full AI version of `Copyright.js`** from the file or download it.
 
 Your project should now be:
 
